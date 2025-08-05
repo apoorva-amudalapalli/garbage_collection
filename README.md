@@ -66,5 +66,4 @@ Navigate to localhost:8080/garbage-management/index.html.
 
 ✍️ Author
 Apoorva Amudalapalli
-[Your Name]
 
